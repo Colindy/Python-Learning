@@ -1,5 +1,4 @@
 ## These are the lists that I'm working with for a random bs program :D
-
 names = ["derrick jones", "renee eubanks", "chris nellinger"]
 sw_chars = ["darth maul", "obi wan kenobi", "ahsoka tano"]
 fruits = ["apple", "orange", "pear", "peach", "grape", "apricot", "blueberry"]
