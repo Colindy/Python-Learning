@@ -1,6 +1,6 @@
 ## These are the lists that I'm working with for a random bs program :D
 
-names = ["derrick jones", "renee eubanks", "chris nellinger"]
+names = ["derrick j", "renee e", "chris n"]
 sw_chars = ["darth maul", "obi wan kenobi", "ahsoka tano"]
 fruits = ["apple", "orange", "pear", "peach", "grape", "apricot", "blueberry"]
 
@@ -24,7 +24,7 @@ print("Now we're going to manipulate some of these lists.")
 leaving = names.pop(1)
 print(f"If {leaving.title()} gets this promotion then only {names[0].title()} and {names[1].title()} left.")
 print(names)
-names.append("brian short")
+names.append("brian s")
 print(f"If that does happen, {names[1].title()} hopes he can get {names[2].title()} the backfill spot.")
 print(names)
 
