@@ -2,6 +2,10 @@
   "ExpandedNodes": [
     ""
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\MovieTickets.py",
+=======
+  "SelectedNode": "\\confirmed_users.py",
+>>>>>>> 69c3a1c3742ad5bd838b1fe724a295474e2af385
   "PreviewInSolutionExplorer": false
 }
